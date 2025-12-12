@@ -1,1 +1,3 @@
-# Basic_JavaScript_Bahasa_Indonesia
+**Basic JavaScript**
+
+aku rangkum ni pembelajaran JS yang Basicnya. Enjoy :)
